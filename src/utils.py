@@ -160,8 +160,7 @@ def get_minibatches_idx(n, minibatch_size, shuffle=False):
 
 
 def load_testdata(min_steps, max_steps, is_h36m=False):
-  # data_path = "../datasets/test/"
-  data_path = "/home/jonging/Research/Motion_Retarget/cvpr2018nkn/datasets/test/"
+  data_path = "../datasets/test/"
 
   inlocal = []
   inglobal = []
