@@ -1,4 +1,0 @@
-model_checkpoint_path: "JMR.model-15000"
-all_model_checkpoint_paths: "JMR.model-5000"
-all_model_checkpoint_paths: "JMR.model-10000"
-all_model_checkpoint_paths: "JMR.model-15000"
