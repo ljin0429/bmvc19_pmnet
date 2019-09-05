@@ -14,5 +14,7 @@ Our implementation is based on the code for the CVPR 2018 paper (Neural Kinemati
 
 Please follow the [instructions](https://github.com/rubenvillegas/cvpr2018nkn) for further details. 
 
+Contact ljin0429@gmail.com if you have any questions.
+
 
 
