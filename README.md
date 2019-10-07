@@ -1,7 +1,7 @@
 # PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting
 Tensorflow implementation of paper:
 
-PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting (BMVC 2019)
+[PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting](https://bmvc2019.org/wp-content/uploads/papers/0997-paper.pdf) (BMVC 2019)
 
 # Environments
 * Python 2.7
