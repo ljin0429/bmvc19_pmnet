@@ -16,5 +16,16 @@ Please follow the [instructions](https://github.com/rubenvillegas/cvpr2018nkn) f
 
 Contact ljin0429@gmail.com if you have any questions.
 
+# Citation
+Please cite our work as follows:
+
+~~~
+@InProceedings{Lim_pmnet_BMVC19,
+  author = {Lim, Jongin and Chang, Hyung Jin and Choi, Jin Young},
+  title = {PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting},
+  booktitle = {British Machine Vision Conference (BMVC)},
+  year = {2019}
+}
+~~~
 
 
