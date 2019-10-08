@@ -3,6 +3,11 @@ Tensorflow implementation of paper:
 
 [PMnet: Learning of Disentangled Pose and Movement for Unsupervised Motion Retargeting](https://bmvc2019.org/wp-content/uploads/papers/0997-paper.pdf) (BMVC 2019)
 
+Video Result:
+
+[![Watch the video](https://img.youtube.com/vi/oWGK8dO7JU4/hqdefault.jpg)](https://www.youtube.com/watch?v=oWGK8dO7JU4)
+
+
 # Environments
 * Python 2.7
 
